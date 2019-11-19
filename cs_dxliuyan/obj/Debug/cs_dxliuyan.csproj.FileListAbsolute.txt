@@ -1,0 +1,14 @@
+E:\git\cs_dxliuyan\cs_dxliuyan\bin\Debug\cs_dxliuyan.exe.config
+E:\git\cs_dxliuyan\cs_dxliuyan\bin\Debug\cs_dxliuyan.exe
+E:\git\cs_dxliuyan\cs_dxliuyan\bin\Debug\cs_dxliuyan.pdb
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.csprojAssemblyReference.cache
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.Form1.resources
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.Properties.Resources.resources
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.csproj.GenerateResource.cache
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.csproj.CoreCompileInputs.cache
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.exe
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.pdb
+E:\git\cs_dxliuyan\cs_dxliuyan\bin\Debug\HtmlAgilityPack.dll
+E:\git\cs_dxliuyan\cs_dxliuyan\bin\Debug\HtmlAgilityPack.pdb
+E:\git\cs_dxliuyan\cs_dxliuyan\bin\Debug\HtmlAgilityPack.xml
+E:\git\cs_dxliuyan\cs_dxliuyan\obj\Debug\cs_dxliuyan.csproj.CopyComplete
